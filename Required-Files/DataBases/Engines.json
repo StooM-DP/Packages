@@ -6,7 +6,7 @@
     "heretic-executable": "Engines/gzdoom/gzdoom",
     "strife-executable": "Engines/gzdoom/gzdoom",
     "icon": "Engines/gzdoom/gzdoom.png",
-    "is_downloaded": true,
+    "is_downloaded": false,
     "download_linux_link": "https://github.com/Grise3/doom-engines-compilated/raw/refs/heads/main/gzdoom.zip",
     "download_windows_link": "https://github.com/Grise3/doom-engines-compilated/raw/refs/heads/main/gzdoom-windows.zip"
   },
@@ -39,7 +39,7 @@
     "heretic-executable": "Engines/dsda-doom/dsda-doom",
     "strife-executable": "Engines/dsda-doom/dsda-doom",
     "icon": "Engines/dsda-doom/dsda-doom.svg",
-    "is_downloaded": true,
+    "is_downloaded": false,
     "download_linux_link": "https://github.com/Grise3/doom-engines-compilated/raw/refs/heads/main/dsda-doom.zip",
     "download_windows_link": "https://github.com/Grise3/doom-engines-compilated/raw/refs/heads/main/dsda-doom-windows.zip"
   },
