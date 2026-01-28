@@ -1,0 +1,13 @@
+{
+    "version": "0.1",
+    "iwads" : {
+        "doom2": false,
+        "doom": false,
+        "heretic": false,
+        "hexen": false,
+        "tnt": false,
+        "plutonia": false,
+        "strife": false
+    }
+
+}
