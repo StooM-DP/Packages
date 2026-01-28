@@ -1,5 +1,16 @@
 [
   {
+    "title": "uzdoom",
+    "doom-executable": "Engines/uzdoom/uzdoom",
+    "hexen-executable": "Engines/uzdoom/uzdoom",
+    "heretic-executable": "Engines/uzdoom/uzdoom",
+    "strife-executable": "Engines/uzdoom/uzdoom",
+    "icon": "Engines/uzdoom/uzdoom.png",
+    "is_downloaded": false,
+    "download_linux_link": "https://github.com/Grise3/doom-engines-compilated/raw/refs/heads/main/uzdoom.zip",
+    "download_windows_link": "https://github.com/Grise3/doom-engines-compilated/raw/refs/heads/main/uzdoom-windows.zip"
+  }
+  {
     "title": "gzdoom",
     "doom-executable": "Engines/gzdoom/gzdoom",
     "hexen-executable": "Engines/gzdoom/gzdoom",
