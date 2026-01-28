@@ -1,16 +1,109 @@
-[
-    {
-        "title": "FLESHARMONIC",
-        "description": "20 new maps, with various difficulties for DOOM II: Hell on Earth.",
-        "long_description": "violent and sanguinolent doom II project : Flesharmonic ! It's a 20-maps megawad of raw and grilled meat to satisfy your insatiable appetite for wads!  This wad is served by the following team: @datacore (project leader) , @Alephany, @Duskolos, Jambon, @Nixx and @Roofi.  with the help of its fabulous testers: @Gr0mat, @WH-Wilou84 and its talentuous artist : @franckFRAG",
-        "authors": "Datacore, Alephany, Jambon, Nixx, Duskolos, Roofi",
-        "has_cacoward": true,
-        "image_url": "https://media.moddb.com/images/downloads/1/264/263519/9oycge11.jpg",
-        "banner_url": "https://i.imgur.com/qWEAD0I.png",
-        "download_url": "https://www.quaddicted.com/files/idgames/levels/doom2/Ports/megawads/fhc.zip",
-        "file_format": "wad",
-        "iwad": "2",
-        "IsBest": false,
-        "downloaded": true
-    }
+{
+    "version": "0.0.0",
+    "wads": [
+  {
+    "title": "Valiant",
+    "description": "Valiant is a MBF megawad for Doom II featuring 32 new maps spanning 5 themed episodes.",
+    "long_description": "Valiant is a MBF megawad for Doom II featuring 32 new maps spanning 5 themed episodes. Each map is designed to be played from a pistol start, but some effort has been made to support continuous play as well.",
+    "authors": "Paul \"skillsaw\" DeBruyne",
+    "has_cacoward": true,
+    "image_url": "https://doomwiki.org/w/images/thumb/c/c7/Valiant_title.png/320px-Valiant_title.png",
+    "banner_url": "https://i.imgur.com/f5nmSfv.png",
+    "download_url": "https://www.quaddicted.com/files/idgames/levels/doom2/Ports/megawads/valiant.zip",
+    "file_format": "wad",
+    "IsBest": false,
+    "iwad": "doom",
+    "downloaded": false
+  },
+  {
+    "title": "FLESHARMONIC",
+    "description": "20 new maps, with various difficulties for DOOM II: Hell on Earth.",
+    "long_description": "violent and sanguinolent doom II project : Flesharmonic ! It's a 20-maps megawad of raw and grilled meat to satisfy your insatiable appetite for wads! This wad is served by the following team: @datacore (project leader), @Alephany, @Duskolos, Jambon, @Nixx and @Roofi. with the help of its fabulous testers: @Gr0mat, @WH-Wilou84 and its talented artist : @franckFRAG",
+    "authors": "Datacore, Alephany, Jambon, Nixx, Duskolos, Roofi",
+    "has_cacoward": false,
+    "image_url": "https://media.moddb.com/images/downloads/1/264/263519/9oycge11.jpg",
+    "banner_url": "https://i.imgur.com/qWEAD0I.png",
+    "download_url": "https://www.quaddicted.com/files/idgames/levels/doom2/Ports/megawads/fhc.zip",
+    "file_format": "wad",
+    "IsBest": true,
+    "iwad": "doom2",
+    "downloaded": false
+  },
+  {
+    "title": "Survive in Hell (RC2)",
+    "description": "Survive in Hell is a set 33 Boom compatible maps.",
+    "long_description": "Survive in Hell (SIH) is a Boom compatible WAD featuring 33 new levels and new custom monsters. SIH offers fun and fast paced action in a copycastesque environment. Blast through new landscapes of hell and twisted scenery to earn your freedom.",
+    "authors": "JCD",
+    "has_cacoward": false,
+    "image_url": "https://dl.dropboxusercontent.com/s/4cqb3wsiwovtn27/sihr2fix30b.png",
+    "banner_url": "https://dl.dropboxusercontent.com/s/rti82kfkyybruyz/sihr2fixt.png",
+    "download_url": "https://www.quaddicted.com/files/idgames/levels/doom2/Ports/megawads/sihr2fix.zip",
+    "file_format": "wad",
+    "style": "coop, solo",
+    "IsBest": false,
+    "iwad": "hexen",
+    "downloaded": false
+  },
+  {
+    "title": "L'Agonie Finale",
+    "description": "L'Agonie Finale is a final bonus level bringing a closure to the 3 Heures d'Agonie series",
+    "long_description": "L'Agonie Finale is the ultimate level in the 3HA series. A center HUB connecting multiple parallel worlds created by various authors of the series will be your playground. Each section has been built under a 3-hour time limit.",
+    "authors": "[WH]-Wilou84, Jambon, franckFRAG, Roofi, JCD, Oxyde, Datacore85",
+    "has_cacoward": false,
+    "image_url": "https://i.imgur.com/XWjddXn.png",
+    "banner_url": "https://i.imgur.com/XWjddXn.png",
+    "download_url": "https://www.quaddicted.com/files/idgames/levels/doom2/0-9/3habonus.zip",
+    "file_format": "wad",
+    "style": "coop, solo",
+    "IsBest": false,
+    "iwad": "heretic",
+    "downloaded": false
+  },
+  {
+    "title": "3 Heures d'Agonie III",
+    "description": "3 Heures d'Agonie is a 32-level Megawad created by the Doom French Community.",
+    "long_description": "3 Heures d'Agonie (English: 3 Hours of Agony) is a 32-level megawad for limit-removing source ports, created by members of the French Doom community. Each map in the WAD was made within a three hour time limit, though the concept differs from traditional speedmapping events in that there was no singular mapping period, allowing participants to create multiple levels.",
+    "authors": "franckFRAG, Roofi, Jambon, NilstheRed, Necrotikflesh, Datacore, Oxyde, Memfis, JCD, [WH]-Wilou84, Ch0wW, Darkwave000",
+    "has_cacoward": false,
+    "image_url": "https://dl.dropboxusercontent.com/s/35euv5f1ao7aihu/3ha301b.png",
+    "banner_url": "https://doomwiki.org/w/images/e/e7/3_heures_d%27agonie_3_title.png",
+    "download_url": "https://www.quaddicted.com/files/idgames/levels/doom2/megawads/3ha3.zip",
+    "file_format": "wad",
+    "style": "coop, solo",
+    "IsBest": false,
+    "iwad": "strife",
+    "downloaded": false
+  },
+  {
+    "title": "3 Heures d'Agonie II",
+    "description": "3 Heures d'Agonie is a 32-level Megawad created by the Doom French Community.",
+    "long_description": "3 Heures d'Agonie (English: 3 Hours of Agony) is a 32-level megawad for limit-removing source ports, created by members of the French Doom community. Each map in the WAD was made within a three hour time limit, though the concept differs from traditional speedmapping events in that there was no singular mapping period, allowing participants to create multiple levels.",
+    "authors": "Ch0wW, subject_119, Datacore85, franckFRAG, [WH]-Wilou84, Sid Zetmeck, Jambon, Memfis, Oxyde, Plut, NilsTheRed, Darkwave0000",
+    "has_cacoward": false,
+    "image_url": "https://dl.dropboxusercontent.com/s/4jq5zpk95e8jg11/3ha208b.png",
+    "banner_url": "https://doomwiki.org/w/images/4/49/3_heures_d%27agonie_2_title.png",
+    "download_url": "https://www.quaddicted.com/files/idgames/levels/doom2/megawads/3ha2.zip",
+    "file_format": "wad",
+    "style": "coop, solo",
+    "IsBest": false,
+    "iwad": "final-doom",
+    "downloaded": false
+  },
+  {
+    "title": "3 Heures d'Agonie I",
+    "description": "3 Heures d'Agonie is a 32-level Megawad created by the Doom French Community.",
+    "long_description": "3 Heures d'Agonie (English: 3 Hours of Agony) is a 32-level megawad for limit-removing source ports, created by members of the French Doom community. Each map in the WAD was made within a three hour time limit, though the concept differs from traditional speedmapping events in that there was no singular mapping period, allowing participants to create multiple levels.",
+    "authors": "[WH]-Wilou84, ZyklonB, franckFRAG, Necrotikflesh, Datacore85, subject_119, JCD, Oxyde, Darkwave0000",
+    "has_cacoward": false,
+    "image_url": "https://dl.dropboxusercontent.com/s/zh56uqkfq8epe26/3hafinal01.png",
+    "banner_url": "https://doomwiki.org/w/images/d/d0/3_heures_d%27agonie_title.png",
+    "download_url": "https://www.quaddicted.com/files/idgames/levels/doom2/Ports/megawads/3hafinal.zip",
+    "file_format": "wad",
+    "style": "coop, solo",
+    "IsBest": false,
+    "iwad": "freedoom",
+    "downloaded": false
+  }
 ]
+
+}
