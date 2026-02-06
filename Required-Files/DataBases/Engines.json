@@ -7,9 +7,9 @@
       "hexen-executable": "Engines/uzdoom/uzdoom",
       "heretic-executable": "Engines/uzdoom/uzdoom",
       "strife-executable": "Engines/uzdoom/uzdoom",
-      "icon": "Engines/uzdoom/uzdoom.png",
+      "icon": "Engines/uzdoom/uzdoom.svg",
       "is_downloaded": false,
-      "download_linux_link": "https://github.com/Grise3/doom-engines-compilated/raw/refs/heads/main/uzdoom.zip",
+      "download_linux_link": "https://github.com/Grise3/doom-engines-compilated/raw/refs/heads/main/uzdoom-linux.zip",
       "download_windows_link": "https://github.com/Grise3/doom-engines-compilated/raw/refs/heads/main/uzdoom-windows.zip"
     },
     {
@@ -55,6 +55,17 @@
       "is_downloaded": false,
       "download_linux_link": "https://github.com/Grise3/doom-engines-compilated/raw/refs/heads/main/dsda-doom.zip",
       "download_windows_link": "https://github.com/Grise3/doom-engines-compilated/raw/refs/heads/main/dsda-doom-windows.zip"
+    },
+    {
+      "title": "woof",
+      "doom-executable": "Engines/woof/woof",
+      "hexen-executable": "Engines/woof/woof",
+      "heretic-executable": "Engines/woof/woof",
+      "strife-executable": "Engines/woof/woof",
+      "icon": "Engines/woof/woof.png",
+      "is_downloaded": false,
+      "download_linux_link": "https://github.com/Grise3/doom-engines-compilated/raw/refs/heads/main/woof-linux.zip",
+      "download_windows_link": "https://github.com/Grise3/doom-engines-compilated/raw/refs/heads/main/woof-windows.zip"
     },
     {
       "title": "chocolate-doom",
