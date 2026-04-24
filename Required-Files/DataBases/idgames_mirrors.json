@@ -1,0 +1,52 @@
+{
+  "idgames_mirrors": [
+    {
+      "country": "Germany",
+      "urls": [
+        "ftp://ftp.fu-berlin.de/pc/games/idgames/",
+        "https://ftp.fu-berlin.de/pc/games/idgames/"
+      ]
+    },
+    {
+      "country": "USA",
+      "region": "New York",
+      "urls": [
+        "https://youfailit.net/pub/idgames/"
+      ]
+    },
+    {
+      "country": "USA",
+      "region": "Kentucky",
+      "urls": [
+        "https://lethe.chinstrap.org/idgames/"
+      ]
+    },
+    {
+      "country": "USA",
+      "region": "Michigan",
+      "urls": [
+        "https://mirrors.lug.mtu.edu/idgames/"
+      ]
+    },
+    {
+      "country": "USA",
+      "region": "Virginia",
+      "urls": [
+        "https://www.gamers.org/pub/idgames/"
+      ]
+    },
+    {
+      "country": "Sweden",
+      "urls": [
+        "https://ftpmirror.infania.net/pub/idgames/",
+        "https://mirror.braindrainlan.nu/pub/idgames/"
+      ]
+    },
+    {
+      "country": "New Zealand",
+      "urls": [
+        "https://files.xvertigox.com/idgames/"
+      ]
+    }
+  ]
+}
